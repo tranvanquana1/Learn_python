@@ -54,3 +54,6 @@ def multip(num1, num2):
 multip(2, 3)
 
 print('outside function:', result)  #result = 0
+
+if __name__ == "__main__":
+    multip(3, 4)
